@@ -1,0 +1,30 @@
+#
+# -------------------------------------------------------------------
+#        The Italian 380kV Power Transmission Grid
+# -------------------------------------------------------------------    
+#
+#
+# SOURCE   : 
+#
+#     Vittorio Rosato Ph.D.
+#     Senior Research Scientist
+#     ENEA (Italian National Agency for New Technologies,
+#     Energy and the Environment)
+#     Computing and Modelling Unit (CAMO)
+#     Casaccia Research Center- Post Bag 111
+#     Via Anguillarese 301 - 00060 S.M. di Galeria (Roma)
+#     phone: +39.06.3048.4825
+#     fax: +39.06.3048.6511 
+#
+# DATE     : May 2006
+#
+# COMMENTS : The network contains N=310 nodes 
+#                
+#	   Nodes from 1  to 113 are sources (power is inserted), 
+#           nodes from 114 to 210 are loads (power is extracted) 
+#           nodes from 211 to 310 are junctions (power just flows by).
+#           The network has 347 single lines and 14 double lines 
+#           (therefore 14 couples i-j are repeated in the attached file).
+#
+# i       j
+#-------------
